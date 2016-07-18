@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="white">#ffffff</color>
-    <color name="bg_gradient_start">#b21331</color>
-    <color name="bg_gradient_end">#820d2a</color>
-    <color name="bg_button_login">#380813</color>
+    <color name="bg_gradient_start">#202A3C</color>
+    <color name="bg_gradient_end">#4C5C7A</color>
+    <color name="bg_button_login">#413A5C</color>
 </resources>
